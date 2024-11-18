@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 ## REGISTER NUMBER: 212222110030
 ## NAME: NAVEEN S
-## DATE: 26.09.2024
+## DATE: 05.09.2024
 # AIM
 To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
